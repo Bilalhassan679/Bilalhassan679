@@ -16,6 +16,7 @@ I'm a full-time **React Native developer** with a passion for building polished,
 
 - 💼 &nbsp;**Focus:** Production-grade React Native mobile apps
 - ⚡ &nbsp;**Stack:** TypeScript · Redux/Zustand · Firebase · REST APIs · React Navigation · Expo
+- 📲 &nbsp;**8 apps live** on the Play Store & App Store
 - 🌱 &nbsp;**Always Learning:** Exploring Flutter, web frameworks, and backend development
 - 🏗️ &nbsp;**77+ repositories** — professional work & personal experiments across multiple technologies
 
